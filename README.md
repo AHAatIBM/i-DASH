@@ -1,2 +1,4 @@
 # i-DASH
 Repository for i-DASH, a GBS asset for performing assessments on IBM i Systems.
+IBM i clients are increasingly hampered by the density and complexity of their legacy applications.  And as COVID-19 has demonstrated, every organization, from a local government agency to an international bank, needs an application environment that lets them pivot on a dime.  IBM’s i-DASH is an agile, cost-effective service that gives IBM i clients immediate insights into their applications and systems, allowing them to make faster, more informed decisions on respond to change in a highly volatile business environment.
+This repository describes the tooling and services that the GBS Modernize for Cloud team can deliver through any organization in IBM.  We can provide this services completely remotely or on site when possible.
